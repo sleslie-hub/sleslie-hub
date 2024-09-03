@@ -1,4 +1,4 @@
-I'm a technical writer based in San Francisco, CA.
+I'm a technical writer based in San Francisco, CA. I'm also studying data science at the [Open University](https://www.open.ac.uk/). Fun fact - the Open University is the largest university in the UK by number of students.
 
 I created this GitHub account to showcase examples of programming projects I have or am currently working on. Hopefully, this list will grow over the next few months. 
 
